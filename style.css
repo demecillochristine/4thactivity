@@ -1,0 +1,193 @@
+.nav {
+    
+    background-color: rgb(189, 151, 151);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: overline ;
+    font-size: 20px;
+    
+}
+
+.nav a {
+color: rgb(140, 102, 102);
+text-indent: 30px;
+}
+.navi h2 {
+    text-shadow: 3px 2px rgb(105, 114, 32);
+
+}
+
+
+
+.border {
+    background-color: rgb(50, 42, 42);
+    padding: 10px;
+}
+.border1 {
+    background-color: rgb(50, 42, 42);
+    padding: 10px;
+}
+.border1 h2 {
+    border-style: inset;
+    border-radius: 100px 100px 25px 25px;
+}
+
+
+.menu {
+    background-color: rgb(66, 41, 48);
+    height: 200px;
+    padding-bottom: 10px;
+    text-align: center;
+    border-radius: 50px;
+}
+
+.menu h3{
+    text-align: center;
+    color: rgb(134, 109, 44);
+}
+
+.menuu {
+    background-color: rgb(78, 24, 24);
+    height: 200px;
+    padding-bottom: 10px;
+    text-align: center;
+    border-radius: 50px;
+
+}
+
+
+.menuu h3{
+    text-align: center;
+    color: rgb(134, 109, 44);
+}
+
+
+.menuuu {
+    background-color: #e5c926;
+    height: 200px;
+    text-align: center;
+    border-radius: 50px;
+}
+
+.menuuu h3 {
+    text-align: center;
+    color: rgb(134, 109, 44);
+
+}
+
+
+.borderr {
+    background-color: rgb(189, 151, 151);
+    padding: 10px;
+}
+
+.rating {
+    text-align: center;
+    background-color: rgb(103, 38, 49);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.ratings {
+    text-align: left;
+    background-color: rgb(103, 38, 49);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.bg {
+    text-align: center;
+    background-color: rgb(69, 17, 17);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.bg p{
+    background-color: rgb(48, 41, 41);
+}
+ .rating h3{
+    color: rgb(37, 21, 21);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 2px 2px rgb(105, 114, 32);
+
+ }
+a{
+    text-decoration: overline rgb(6, 63, 11);
+    
+}
+
+a:hover{
+    color: rgb(232, 232, 71);
+}
+.ans{
+    border-radius: 20px 20px 0px 0px;
+}
+.ans img{
+   width: 200px;
+    height: 200px;
+
+}
+.menus{
+    background-color: rgb(7, 34, 19);
+    border-radius: 20px;
+    font-size: 20px;
+    text-indent: 25px;
+}
+
+
+
+.apsmenu{
+    background-color: rgb(95, 9, 16);
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-style: double;
+    border-radius: 20px;
+}
+
+.maindish img{
+   width: 200px;
+    height: 200px;}
+.desserts {
+    border-radius: 0px 0px 20px 20px;
+}
+
+.desserts img{
+   width: 200px;
+    height: 200px;}
+
+
+.lastpg{
+    background-color: blueviolet;
+    border-radius: 0px;
+    padding: 20px;
+}
+.frames img{
+     width: 400px;
+     height: 600px;
+     
+}
+.ai{
+      position: relative;
+      display: inline-block;
+    
+}
+.ai img{
+    width: 1200px;
+    border-radius: 20px;
+}
+.aii{
+      position: absolute;
+      top: 45%;
+      left: 65%;
+      transform: translate(-50%, -50%);
+      font-size: 24px;
+     
+}
+
+
+
+
+
+
+    
+   
+ 
+  
+
